@@ -50,4 +50,3 @@ FALTA INFO
 ### Microservicios
 hay una maquina dedicada por cada microservicio
 - peticiones entran por cualquier lado
-wasssup
