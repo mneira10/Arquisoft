@@ -47,6 +47,12 @@ FALTA INFO
 ### Monolitica
 1 sola maquina controla todo
 - peticiones solo tienen una entrada
+
 ### Microservicios
 hay una maquina dedicada por cada microservicio
 - peticiones entran por cualquier lado
+
+!!! No siempre es mejor la microservicios, la alta burocracia podria hacerla mas lenta.  
+
+## Arquitectura con actores
+Dispatcher maneja a los actores y asigna threads a medida que cada uno queda libre. 
