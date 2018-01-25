@@ -46,7 +46,8 @@ FALTA INFO
 ## AQRUITECTURAS
 ### Monolitica
 1 sola maquina controla todo
-- peticiones solo tienen una entrada 
+- peticiones solo tienen una entrada
 ### Microservicios
 hay una maquina dedicada por cada microservicio
 - peticiones entran por cualquier lado
+wasssup
