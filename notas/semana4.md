@@ -10,7 +10,7 @@
   - light (iots)
   - heavy (Servicios)
 
-Message queue telemetry transfer. Supports:
+Message queue telemetry transfer. Supports: 
 - HTTP
 - SMTP
 - UDP
